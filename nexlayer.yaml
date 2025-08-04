@@ -1,0 +1,7 @@
+application:
+  name: "brick-breaker-game"
+  pods:
+    - name: "frontend"
+      image: "us-east1-docker.pkg.dev/capture-by-auditdeploy/nexlayer-mcp/vibe-mcp-app-6f731ff0-service-1:6fd4797e-1754337331"
+      path: "/"
+      servicePorts: [80] 
