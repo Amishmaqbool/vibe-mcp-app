@@ -1,0 +1,35 @@
+{
+  "name": "3d-pinball-game",
+  "version": "1.0.0",
+  "description": "A 3D pinball game built with React and Three.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext js,jsx,ts,tsx"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.158.0",
+    "@react-three/fiber": "^8.15.11",
+    "@react-three/cannon": "^6.6.0",
+    "@react-three/drei": "^9.88.13",
+    "zustand": "^4.4.7",
+    "framer-motion": "^10.16.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@types/three": "^0.158.3",
+    "@vitejs/plugin-react": "^4.1.1",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "vite": "^4.5.0"
+  },
+  "keywords": ["react", "three.js", "pinball", "game", "3d"],
+  "author": "Your Name",
+  "license": "MIT"
+} 

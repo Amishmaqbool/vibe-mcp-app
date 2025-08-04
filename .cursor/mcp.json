@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+      "nexlayer-mcp": {
+        "url": "https://mcp.nexlayer.ai/api/mcp",
+        "headers": {
+          "Authorization": "Bearer 008cc60a3708e9ee564f0fc25a381f07985ac1f6c1bf639bf38f28f53a577fe9"
+        }
+      }
+    }
+  }
